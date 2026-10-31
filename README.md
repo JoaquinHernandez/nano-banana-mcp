@@ -1,6 +1,8 @@
 # nano-banana-mcp
 
 # Nano Banana MCP Server 🍌
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/056acbdf-3626-4375-afd7-fda1474bd2ae" />
+
 
 A Model Context Protocol (MCP) server that connects Claude to **Nano Banana** (Google's `gemini-2.5-flash-image` AI model), allowing Claude to seamlessly generate and edit images directly in your chat.
 
